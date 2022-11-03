@@ -1,4 +1,6 @@
 Security Plan
-- Meningkatkan Kompetensi
 - Training CEH & CHFI
 - Create Security Planning for organisation
+- Implementasi XDR
+- Implementasi SIEM
+- Implementasi WAF
