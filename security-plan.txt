@@ -1,3 +1,4 @@
 Security Plan
 - Meningkatkan Kompetensi
 - Training CEH & CHFI
+- Create Security Planning for organisation
