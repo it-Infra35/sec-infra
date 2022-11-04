@@ -4,6 +4,6 @@ RENCANA SECURITY INFRA
   * installasi ubuntu server
 - SERVER MONITORING
   * prepare webserver engine
+  * framework monitoring
 - ZABBIX INSTALLATION
   * configurasi ip server cloud dan webserver
-- Live
