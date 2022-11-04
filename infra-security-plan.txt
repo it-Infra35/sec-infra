@@ -6,3 +6,4 @@ RENCANA SECURITY INFRA
   * prepare webserver engine
 - ZABBIX INSTALLATION
   * configurasi ip server cloud dan webserver
+- Live
