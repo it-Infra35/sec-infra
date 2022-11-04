@@ -1,12 +1,14 @@
 RENCANA SECURITY INFRA
 
 - Framework Infrastruktur
+- Framework Security
 - CREATE SERVER CLOUD 
   * installasi ubuntu server
 - SERVER MONITORING
   * prepare webserver engine
-  * framework monitoring
 - ZABBIX INSTALLATION
   * configurasi ip server cloud dan webserver
   * add server
   * add komputer
+  * add all client
+- go live with public access
